@@ -20,7 +20,7 @@ IBM HR Analytics Employee Attrition & Performance — Kaggle
 1,470 employee records · 35 attributes · Zero missing values
 
 ### Files
-- /data .--> Excel file of the original data
-- /sql ⟶ All 7 SQL query files
-- /powerbi ⟶ Three-page HR Attrition Dashboard
-- /documentation ⟶ Findings and Business Brief PDF
+-/ data .--> Excel file of the original data
+-/ sql ⟶ All 7 SQL query files
+-/ powerbi ⟶ Three-page HR Attrition Dashboard
+-/ documentation ⟶ Findings and Business Brief PDF
